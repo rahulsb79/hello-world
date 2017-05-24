@@ -1,0 +1,5 @@
+C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\oracle\product\10.2.0\client_1\BIN\;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Citrix\System32\;C:\Program Files (x86)\Citrix\System32\;c:\Program Files (x86)\Common Files\Citrix\System32;C:\Program Files\Citrix\ICAService\;C:\Program Files (x86)\Enterprise Vault\EVClient\;%systemroot%\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;%GROOVY_HOME%\bin;C:\Program Files (x86)\Gradle\gradle-1.0-milestone-7\bin;C:\Program Files (x86)\apache-ant-1.8.2\bin
+
+
+
+C:\Users\U399335\AppData\Local\Programs\Git\bin
