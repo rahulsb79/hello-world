@@ -5,3 +5,9 @@ class HelloWorld {
   
   }
 }
+
+private class Test {
+  public void Test() {
+    
+  }
+}
