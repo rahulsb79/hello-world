@@ -11,3 +11,7 @@ private class Test {
     
   }
 }
+
+private class AnotherClass {
+  
+}
