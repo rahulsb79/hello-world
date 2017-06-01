@@ -11,3 +11,9 @@ private class Test {
     
   }
 }
+
+private class newClass {
+  private int findAge() {
+    
+  }
+}
